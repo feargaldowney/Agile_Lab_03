@@ -1,6 +1,6 @@
-This is the readme file for the tutorial repository
-Change made in dazzling_feature to provoke conflict
+# Learning how to use version control in University.
 
-Change made as a collaborator
-
+Module Name: Agile Development
+Course: Software Developement (Honours)
+UNiversity; Munster Tecnological University, Ireland.
 
